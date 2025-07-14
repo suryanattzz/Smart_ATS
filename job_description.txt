@@ -1,0 +1,85 @@
+Job Title: Data Scientist
+Location: [Remote/On-site/Hybrid]
+Job Type: [Full-time/Contract]
+Experience Level: [Mid-level/Senior]
+Department: [Data Science, AI/ML, Analytics]
+
+Job Summary:
+We are seeking a highly analytical Data Scientist to develop machine learning models, analyze complex datasets, and drive data-driven decision-making. The ideal candidate will have expertise in Python/R, SQL, and statistical modeling, with experience in deploying ML solutions. This role will collaborate with cross-functional teams to solve business challenges through predictive analytics and AI.
+
+Key Responsibilities:
+1. Data Analysis & Modeling
+Develop and deploy machine learning models (supervised/unsupervised learning, NLP, computer vision, etc.).
+
+Perform exploratory data analysis (EDA) to identify trends and insights.
+
+Build predictive models (regression, classification, clustering) to solve business problems.
+
+2. Data Engineering & Preprocessing
+Clean, transform, and analyze large datasets using Python (Pandas, NumPy, Scikit-learn) or R.
+
+Optimize data pipelines for big data (Spark, Hadoop, SQL).
+
+Work with APIs, databases (SQL/NoSQL), and cloud platforms (AWS, GCP, Azure).
+
+3. AI/ML Deployment
+Productionize ML models using MLflow, TensorFlow, PyTorch, or Flask/Django.
+
+Implement A/B testing and model performance monitoring.
+
+4. Business Insights & Collaboration
+Translate technical findings into actionable insights for stakeholders.
+
+Partner with engineering, product, and marketing teams to drive data initiatives.
+
+5. Research & Innovation
+Stay updated with latest AI/ML trends (LLMs, generative AI, deep learning).
+
+Recommend improvements to existing models and algorithms.
+
+Qualifications & Skills:
+Must-Have (ATS Keywords):
+✅ Programming: Python (Pandas, NumPy, Scikit-learn), R, SQL
+✅ Machine Learning: Regression, Classification, NLP, Neural Networks
+✅ Data Tools: TensorFlow, PyTorch, Spark, Hadoop
+✅ Statistics: Hypothesis Testing, Bayesian Methods, A/B Testing
+✅ Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
+✅ Cloud Platforms: AWS SageMaker, Google Vertex AI, Azure ML
+
+Nice-to-Have:
+Advanced Degrees (MS/PhD in Data Science, CS, Statistics)
+
+Experience with MLOps (Docker, Kubernetes, CI/CD)
+
+Big Data: Databricks, Snowflake, Apache Beam
+
+Domain Expertise (Healthcare, Finance, E-commerce)
+
+Education & Experience:
+Bachelor’s/Master’s in Data Science, Computer Science, Statistics, or related field.
+
+3+ years of hands-on experience in ML model development & deployment.
+
+Why Join Us?
+Work on cutting-edge AI/ML projects.
+
+Competitive salary + equity/stocks (if applicable).
+
+Flexible work environment (remote-friendly).
+
+How to Apply:
+Submit your resume, GitHub, and portfolio (if applicable) with:
+
+Examples of ML projects (Kaggle, research papers, deployed models).
+
+Brief explanation of your most impactful data science contribution.
+
+ATS Optimization Tips:
+Use standard job titles (e.g., "Data Scientist" instead of "AI Wizard").
+
+Include keywords from the job description in the resume.
+
+Avoid images/tables in resumes (ATS can’t read them).
+
+Mention tools/technologies explicitly (e.g., "Scikit-learn," not just "ML").
+
